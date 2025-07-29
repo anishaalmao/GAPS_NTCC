@@ -92,10 +92,7 @@ graduate-admission/
 
 ## 📸 Project Walkthrough
 
-https://github.com/user-attachments/assets/64d59742-48ec-478d-825d-9d05d0450668
-
-
-
+https://github.com/user-attachments/assets/b3b4c4e5-f04c-4eed-9433-4f087a82fee6
 
 
 
@@ -103,7 +100,7 @@ https://github.com/user-attachments/assets/64d59742-48ec-478d-825d-9d05d0450668
 
 ## 📄 License
 
-Under MIT License - free to use and modify
+Under the MIT License - free to use and modify
 
 ---
 
